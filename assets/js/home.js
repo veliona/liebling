@@ -224,7 +224,7 @@ jquery__WEBPACK_IMPORTED_MODULE_0___default()(document).ready(function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/eddie/Code/own/liebling/src/js/home.js */"./js/home.js");
+module.exports = __webpack_require__(/*! /Users/julia/github/fightpandemics/liebling/src/js/home.js */"./js/home.js");
 
 
 /***/ })
